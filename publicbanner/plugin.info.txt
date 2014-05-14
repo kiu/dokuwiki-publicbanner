@@ -1,0 +1,7 @@
+base   publicbanner
+author kiu
+email  kiu@gmx.net
+date   2014-05-14
+name   publicbanner plugin
+desc   Public Banner based on Classification Banner
+url    http://github.com/kiu/dokuwiki-publicbanner
